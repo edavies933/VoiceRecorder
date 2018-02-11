@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Voice Recorder</string>
+    <string name="share">Share</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="options">Options</string>
+    <string name="cancel">Cancel</string>
+    <string name="deleted_string">%1$s successfully deleted</string>
+    <string name="file_already_exit_text">The file %1$s already exists. Please choose a different file name</string>
+    <string name="share_with">share with</string>
+    <string name="rename_file">Rename this File</string>
+    <string name="ok">Ok</string>
+    <string name="delete_file">Delete File?</string>
+    <string name="delete_file_text">are you sure you want to delete this File?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="record">Record</string>
+    <string name="recorded_files">Recorded Files</string>
+    <string name="recording_started">recording started</string>
+    <string name="recording">Recording</string>
+    <string name="click_to_start_recording">click the button to start recording</string>
+    <string name="record_saved_at">Record saved at</string>
+    <string name="date_format">mmm dd yyyy - hh:mm a</string>
+    <string name="audio_permision_required">This app needs to record audio through the microphone....</string>
+    <string name="about">About</string>
+    <string name="action_settings">Setting</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="contact_me_at">Write to me at</string>
+    <string name="created_by">Design by Emmanuel Davies</string>
+    <string name="app_version">Version: %1$s</string>
+    <string name="email_address">edavies933@gmail.com</string>
+</resources>
